@@ -1,0 +1,47 @@
+.Bentley_6E{
+    width: 50%;
+    height: 50%;
+    margin-top: 150px;
+    border: 2px solid whitesmoke;
+    box-shadow: 40px 40px 90px grey;
+    margin-left: 350px;
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/wp3491703.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 40px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    color: #000000
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+html {
+    scroll-behavior: smooth;
+}
+.copy_right_footer
+ {
+   position: fixed;
+   color: snow;
+   bottom: 0;
+   width: 100%;
+   background-color: rgba(119, 136, 153, 0);
+   line-height: 3;
+   text-align: left;
+   margin-left: 13px;
+   font-size: 20px;
+ }
